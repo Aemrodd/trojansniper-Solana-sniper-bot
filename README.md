@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="http://trojansniper.com/">
-    <img src="https://cdn.discordapp.com/attachments/1071158659255640185/1235605227076456511/logo_1.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/1071158659255640185/1235605227076456511/logo_1.png?ex=6634fa8a&is=6633a90a&hm=e7b96cf5d9111a8a085e8136342fc161f6b7ec6412e4c391f19c2d532322855b&" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Trojan Solana sniper bot</h3>
@@ -80,7 +80,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![bot][product-screenshot]](http://trojansniper.com/3d.mp4)
+https://github.com/Aemrodd/trojansniper-Solana-sniper-bot/assets/58418019/51fd228a-a458-4b46-b5e6-ffb3f358f971
+
 
 Were you wondering which bot are those pro snipers using?
 Snipe any raydium token as soon as liquidity is added. Be the first one to buy any coin.
